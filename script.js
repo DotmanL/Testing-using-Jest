@@ -1,3 +1,5 @@
+//Pure Functions, easy
+
 const googleDatabase = [
     'cats.com',
      'souprecipes.com',

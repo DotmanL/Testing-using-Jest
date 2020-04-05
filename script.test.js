@@ -1,3 +1,4 @@
+//pure functions
 const googleSearch = require('./script');
 
 dbMock =[
